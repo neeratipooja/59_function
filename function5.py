@@ -2,7 +2,7 @@
 DATE:20TH DEC 2022
 DAY: TUESDAY
 TOPIC: FUNTION
-AUTHOR:RAMA BHARGAvi
+AUTHOR:POOJA
 ''' 
 def factorial(n):
     if n==0:
